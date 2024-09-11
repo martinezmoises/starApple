@@ -1,0 +1,13 @@
+h1{
+    color: pink;
+}
+
+ul li {
+    text-decoration: none;
+}
+
+.ginger{
+    color: blue;
+    list-style: lower-alpha;
+    font-size: 20px;
+}
